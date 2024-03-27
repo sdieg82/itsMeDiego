@@ -94,6 +94,13 @@ sr.reveal("#work-6", {
     delay: 3000,
 });
 
+sr.reveal("#work-7", {
+    duration: 2000,
+    origin: "bottom",
+    distance: "200px",
+    delay: 3500,
+});
+
 //formulario
 
 sr.reveal(".contact-cards", {
