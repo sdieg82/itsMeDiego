@@ -377,12 +377,11 @@ p {
 .grid-layout {
     width: 90%;
     display: grid;
-    grid-template-columns: 30% 30% 30%;
+    grid-template-columns: 30% 30% 30% 30%;
     align-items: center;
     justify-content: space-between;
-    padding: 2rem;
+    padding: 0.5rem;
 }
-
 .caja {
     display: flex;
     flex-direction: column;
